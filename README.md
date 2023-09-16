@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharanbir-3000
 - 👀 I’m interested in AI and game development.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m have strong hold on Python and Django.
 - 💞️ I’m looking to collaborate on wherever you want.
 - 📫 How to reach me Sharanbir_3000(my instagram account).
 
